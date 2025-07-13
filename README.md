@@ -3,19 +3,19 @@ The Slushy Fund supports prototyping for George Mason University students, with 
 
 The application takes less than a minute, and each reimbursement should take less than a minute to file. 
 
-The fund is intended to operate at the speed of prototyping, not paperwork.
+The fund is intended to operate at the speed of prototyping, not paperwork. [^1]
 
 # Logistics
 
 ### Application (once)
-Via [LinkedIn DM](https://www.linkedin.com/in/dgramop/), explain:
+Via [LinkedIn DM to Dhruv](https://www.linkedin.com/in/dgramop/), explain:
 - What are you building?
 - Why are you building it?
 - Send a picture of your progress so far (even if its just a napkin sketch)
 
-If I have more questions (like how the product this help your project), I'll follow up on a LinkedIn DM. It shouldn't take more than 30 seconds to apply.
-
 Just add me on LinkedIn and DM me your responses. You can also reach out - I'm in the University Scholars discord and the MIX discord.
+
+If I have more questions, I'll follow up on a LinkedIn DM. It shouldn't take more than 30 seconds to apply.
 
 I'm setting aside a total of $2,000 for all applicants combined, for the 2025-2026 academic year. Not much, but we'll see how far we can stretch it!
 
@@ -50,6 +50,8 @@ The rules and application might change without notice, to help me tune the types
 ## Example expenses:
 - Printer filament, and other supplies
 - Items used and consumed in the development of your project (microcontrollers, sensors, fasteners, modules etc.)
+
+Please use this money in good-faith towards actually achieving your project. This fund has few rules - let's try to keep it that way!
 
 <details>
 <summary><h2>Q&A</h2></summary>
@@ -119,3 +121,5 @@ While I was a resident advisor, I got to watch the de-facto organizer of my floo
 
 The following semester, after I moved to San Francisco for tech work, I had the privilege of seeing those same residents at [Open Sauce](https://opensauce.com/), where they presented their work.
 </details>
+
+[^1]: Slushy Fund is run by an aulmn, and is not affiliated with George Mason University.
