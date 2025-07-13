@@ -69,7 +69,7 @@ It probably won't last all year.
 I'm not sure I'm going to do this again next year, let's see how this one goes! 
 
 ## What about the Student Funding Board (SFB)? Aren't they unable to actually spend all their money?
-GMU's existing Student Fund is "underallocated", but continuges to deny legitimate requests.
+GMU's existing Student Fund is "underallocated", but still denies most legitimate prototyping-related requests, largely due to tracability of parts.
 
 Their contrived process requires RSO's to fill out multi-page rubrics, take mandatory online trainings, review [50-slide presentations](https://si.gmu.edu/wp-content/uploads/2018/03/FM-1-5-presentation-2017-2018_January-2018-Version.pdf), and wait several weeks only to recieve a denial.
 
@@ -78,7 +78,8 @@ Whether by design or by circumstance, the SFB is unable to effectively fund hard
 I want to bring a culture of saying "yes" to non-academic STEM project funding in the MIX.
 
 It should't take weeks to request a $50 reimbursement and signatures from the entire GMU finance deparment for a legimiate request for microcontrollers to be denied.
-De-minimis purchases of parts used-and-consumed by a project should not require inventory or on-campus presence.
+
+De-minimis purchases of parts used-and-consumed by a project should not require on-campus inventory presence.
 
 ## Why the whole reimbursement thing?
 If I give out a block grant, I can't reallocate that money to another project (if, for example, the recipient(s) loses interest in their project and no longer needs parts)
