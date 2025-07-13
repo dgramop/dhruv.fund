@@ -30,7 +30,7 @@ You can apply for particular purchase in advance. This way we can set aside the 
 You can also do cowboy reimbursements (where you buy the thing and then submit the reciept instead of asking in advance), but there's a risk I'll say no, run out of money, or change the rules.
 
 Usual disclaimer that I reserve the right to say to no for any reason or no reason at all. Or to cut you off if you're burning cash too fast without sharing your progress (even if its back-to-back failures)!
-<details>
+</details>
 
 <details>
 <summary><h2>Rules<h2></summary>
