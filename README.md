@@ -119,7 +119,7 @@ When payroll/fund administrators are so far separated from the day-to-day affair
 In the case of SFB, there isn't even a hard legal obligation to dispurse funds. This is why I don't feel that my tiny allocation is redundant.
 
 If anybody cares to figure out how to change this, I'm all ears. Too late for me, maybe not for a future class?
-<details>
+</details>
 
 While I was a resident advisor, I got to watch the de-facto organizer of my floor rally his neighbors to build various applied engineering projects, including a fixed-wing UAS.
 
