@@ -1,3 +1,4 @@
+![Slushy Fund gas-station drink container logo](slushy.png)
 # The Slushy Fund
 The Slushy Fund supports prototyping for George Mason University[^1] students, with no expectation of repayment.
 
