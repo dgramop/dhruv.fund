@@ -34,7 +34,7 @@ Usual disclaimer that I reserve the right to say to no for any reason or no reas
 </details>
 
 <details>
-<summary><h2>Rules<h2></summary>
+<summary><h3>Rules<h3></summary>
 ### No academic projects (classwork or funded research)
 Things you're "required" to build (for class, for work, or for your thesis) can be cool, but that's not what this fund is for.
 There are tons of grants and funds already in place for this.
@@ -50,7 +50,7 @@ However, you grant me a license to share the photos of your work, descriptions o
 [^1]: Slushy Fund is run by an aulmn, and is not affiliated with George Mason University.
 
 <details>
-<summary><h2>Q&A</h2></summary>
+<summary><h3>Q&A</h3></summary>
 
 ## What are some examples of things I can use this for?
 - Printer filament, and other supplies
