@@ -54,49 +54,51 @@ However, you grant me a license to share the photos of your work, descriptions o
 <details>
 <summary><h3>Q&A</h3></summary>
 
-## What are some examples of things I can use this for?
-- Printer filament, and other supplies
-- Items used and consumed in the development of your project (microcontrollers, sensors, fasteners, modules etc.)
+<h4>What are some examples of things I can use this for?</h4><br/>
+<ul>
+<li>Printer filament, and other supplies</li>
+<li>Items used and consumed in the development of your project (microcontrollers, sensors, fasteners, modules etc.)</li>
+</ul><br/>
+<br/>
+Please use this money in good-faith towards actually achieving your project. This fund has few rules - let's try to keep it that way! <br/>
 
-Please use this money in good-faith towards actually achieving your project. This fund has few rules - let's try to keep it that way!
+<h4>Why?</h4>
+In the grand scheme of alumni contributions, my $2,000 is a rounding error.<br/><br/>
 
+There are many good reasons to contribute straight to the university. There is no mechanism I'm aware of that directly disperses funds to students in a way that keeps up with the speed of prototyping.<br/><br/>
 
-## Why am I doing this?
-In the grand scheme of alumni contributions, my $2,000 is a rounding error.
+It probably won't last all year.<br/><br/>
 
-There are many good reasons to contribute straight to the university. There is no mechanism I'm aware of that directly disperses funds to students in a way that keeps up with the speed of prototyping.
+I'm not sure I'm going to do this again next year, let's see how this one goes! <br/><br/>
 
-It probably won't last all year.
+<h4>What about the Student Funding Board (SFB)? Aren't they unable to actually spend all their money?</h4>
+GMU's existing Student Fund is "underallocated", but still denies most legitimate prototyping-related requests, largely due to tracability & inventory of all purchased items.<br/><br/>
 
-I'm not sure I'm going to do this again next year, let's see how this one goes! 
+Their contrived process requires RSO's to fill out multi-page rubrics, take mandatory online trainings, review [50-slide presentations](https://si.gmu.edu/wp-content/uploads/2018/03/FM-1-5-presentation-2017-2018_January-2018-Version.pdf), and wait several weeks only to recieve a denial.<br><br/>
 
-## What about the Student Funding Board (SFB)? Aren't they unable to actually spend all their money?
-GMU's existing Student Fund is "underallocated", but still denies most legitimate prototyping-related requests, largely due to tracability of parts.
+Whether by design or by circumstance, the SFB is unable to effectively fund hardware STEM projects that RSOs come together to build.<br/><br/>
 
-Their contrived process requires RSO's to fill out multi-page rubrics, take mandatory online trainings, review [50-slide presentations](https://si.gmu.edu/wp-content/uploads/2018/03/FM-1-5-presentation-2017-2018_January-2018-Version.pdf), and wait several weeks only to recieve a denial.
+I want to bring a culture of saying "yes" to non-academic STEM project funding in the MIX.<br/><br/>
 
-Whether by design or by circumstance, the SFB is unable to effectively fund hardware STEM projects that RSOs come together to build.
+It should't take weeks to request a $50 reimbursement and signatures from the entire GMU finance deparment for a legimiate request for microcontrollers to be denied.<br/><br/>
 
-I want to bring a culture of saying "yes" to non-academic STEM project funding in the MIX.
+De-minimis purchases of parts used-and-consumed by a project should not require on-campus inventory presence.<br/><br/>
 
-It should't take weeks to request a $50 reimbursement and signatures from the entire GMU finance deparment for a legimiate request for microcontrollers to be denied.
+<h4>Why reimbursements?</h4>
+If I give out a block grant, I can't reallocate that money to another project (if, for example, the recipient(s) loses interest in their project and no longer needs parts)<br/><br/>
 
-De-minimis purchases of parts used-and-consumed by a project should not require on-campus inventory presence.
-
-## Why the whole reimbursement thing?
-If I give out a block grant, I can't reallocate that money to another project (if, for example, the recipient(s) loses interest in their project and no longer needs parts)
-
-## Whose money is this?
-I get it, most funds are named after dead people that did great things. I am neither dead, nor have I done anything all that great.
-I have no plans to be dead, but some constraints are hard to design around.
-
-I was in the class of 2024, where I got a major in computer science and jetissoned my second math major to get into industry.
-
-I was a teaching assistant (TA) for CS department. After almost unionizing the TA's because our $10/hr stipend was left unpaid nearly for over 3 months, I left this job with some of my friends to start https://passcs.io.
-
+<h4>Whose money is this?</h4>
+I get it, most funds are named after dead people that did great things. I am neither dead, nor have I done anything all that great.<br/>
+I have no plans to be dead, but some constraints are hard to design around.<br/>
+<br/>
+I was in the class of 2024, where I got a major in computer science and jetissoned my second math major to get into industry.<br/>
+<br/>
+I was a teaching assistant (TA) for CS department. After almost unionizing the TA's because our $10/hr stipend was left unpaid nearly for over 3 months, I left this job with some of my friends to start https://passcs.io.<br/>
+<br/>
 <details>
-<summary>How I lost faith in back-office payroll/finance types at GMU</summary>
-I earned my despise for back-office bean-counters after the following conversation with payroll:
+<summary>Aside: How I lost faith in back-office payroll/finance types at GMU</summary>
+I earned my despise for back-office bean-counters after the following conversation with payroll:<br/>
+<br/>
 
 | | |
 | -- | -- |
