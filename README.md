@@ -10,6 +10,7 @@ The fund is intended to operate at the speed of prototyping, not paperwork.
 
 <details>
 <summary><h3>Application (once)</h3></summary>
+
 Via <a href="https://www.linkedin.com/in/dgramop ">LinkedIn DM to Dhruv</a> explain
 - What are you building?
 - Why are you building it?
