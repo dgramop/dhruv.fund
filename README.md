@@ -35,7 +35,7 @@ Usual disclaimer that I reserve the right to say to no for any reason or no reas
 </details>
 
 <details>
-<summary><h3>Rules<h3></summary>
+<summary><h3>Rules</h3></summary>
 
 ### No academic projects (classwork or funded research)
 Things you're "required" to build (for class, for work, or for your thesis) can be cool, but that's not what this fund is for.
