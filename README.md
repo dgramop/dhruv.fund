@@ -10,7 +10,7 @@ The fund is intended to operate at the speed of prototyping, not paperwork.
 
 <details>
 <summary><h3>Application (once)</h3></summary>
-Via [LinkedIn DM to Dhruv](https://www.linkedin.com/in/dgramop/), explain:
+Via <a href="https://www.linkedin.com/in/dgramop ">LinkedIn DM to Dhruv</a> explain
 - What are you building?
 - Why are you building it?
 - Send a picture of your progress so far (even if its just a napkin sketch)
@@ -35,6 +35,7 @@ Usual disclaimer that I reserve the right to say to no for any reason or no reas
 
 <details>
 <summary><h3>Rules<h3></summary>
+
 ### No academic projects (classwork or funded research)
 Things you're "required" to build (for class, for work, or for your thesis) can be cool, but that's not what this fund is for.
 There are tons of grants and funds already in place for this.
