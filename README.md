@@ -16,9 +16,9 @@ Via <a href="https://www.linkedin.com/in/dgramop ">LinkedIn DM to Dhruv</a> expl
 - Why are you building it?
 - Send a picture of your progress so far (even if its just a napkin sketch)
 
-Just add me on LinkedIn and DM me your responses. You can also reach out - I'm in the University Scholars discord and the MIX discord.
+Just add me on LinkedIn and DM me your responses. You can also reach out via Discord - I'm in the University Scholars server and the MIX server.
 
-If I have more questions, I'll follow up on a LinkedIn DM. It shouldn't take more than 30 seconds to apply.
+If I have more questions, I'll follow up. It shouldn't take more than 30 seconds to apply.
 
 I'm setting aside a total of $2,000 for all applicants combined, for the 2025-2026 academic year. Not much, but we'll see how far we can stretch it!
 </details>
