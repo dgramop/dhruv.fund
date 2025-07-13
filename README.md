@@ -5,9 +5,10 @@ The application takes less than a minute, and each reimbursement should take les
 
 The fund is intended to operate at the speed of prototyping, not paperwork. 
 
-# Logistics
+## Logistics
 
-### Application (once)
+<details>
+<summary><h3>Application (once)</h3></summary>
 Via [LinkedIn DM to Dhruv](https://www.linkedin.com/in/dgramop/), explain:
 - What are you building?
 - Why are you building it?
@@ -18,8 +19,10 @@ Just add me on LinkedIn and DM me your responses. You can also reach out - I'm i
 If I have more questions, I'll follow up on a LinkedIn DM. It shouldn't take more than 30 seconds to apply.
 
 I'm setting aside a total of $2,000 for all applicants combined, for the 2025-2026 academic year. Not much, but we'll see how far we can stretch it!
+</details>
 
-### Send Reciepts (for every reimbursement)
+<details>
+<summary><h3>Send Reciepts (for every reimbursement)</h3></summary>
 Every purchase must be backed by a reciept you send me over LinkedIn, which I will then reimburse.
 
 You can apply for particular purchase in advance. This way we can set aside the money + let you know that you expense is good.
@@ -27,9 +30,10 @@ You can apply for particular purchase in advance. This way we can set aside the 
 You can also do cowboy reimbursements (where you buy the thing and then submit the reciept instead of asking in advance), but there's a risk I'll say no, run out of money, or change the rules.
 
 Usual disclaimer that I reserve the right to say to no for any reason or no reason at all. Or to cut you off if you're burning cash too fast without sharing your progress (even if its back-to-back failures)!
+<details>
 
-
-## Rules 
+<details>
+<summary><h2>Rules<h2></summary>
 ### No academic projects (classwork or funded research)
 Things you're "required" to build (for class, for work, or for your thesis) can be cool, but that's not what this fund is for.
 There are tons of grants and funds already in place for this.
@@ -40,6 +44,7 @@ This money is intended to fund passion projects.
 You own your intellectual property, and you own the stuff you bought (even after I reimburse it).
 
 However, you grant me a license to share the photos of your work, descriptions of your project etc. This is so I can build a case for this sort of "ad-hoc" funding
+</details>
 
 [^1]: Slushy Fund is run by an aulmn, and is not affiliated with George Mason University.
 
