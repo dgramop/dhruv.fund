@@ -116,9 +116,11 @@ I earned my despise for back-office bean-counters after the following conversati
 | Me | "It sounds like payroll is having some resourcing problems - maybe you're understaffed if you can't do your job? A Department of Labor and Industry investigation may help your head of payroll (name drop) mobilize more resources for your department" |
 | Payroll | "Alight, just hang on. Let me talk to my boss and get in touch with CS department. I'll make sure you hear back by the end of the week" |
 
-When payroll/fund administrators are so far separated from the day-to-day affairs of the University, and don't care to take ownership for their results, you end up with an ineffective high-overhead system.
+With few exceptions, everyone was paid by the following week.
 
-In the case of SFB, there isn't even a hard legal obligation to dispurse funds. This is why I don't feel that my tiny allocation is redundant.
+When payroll/fund administrators are so far separated from the day-to-day affairs of the University, burdened by state regulation, and don't care to take ownership for their results, we end up with an ineffective high-overhead system.
+
+Even in the case of a hard legal obligation to pay employees, our bean-counters coudn't hack it. In the case of SFB, there isn't even a hard legal obligation to dispurse funds. This is why I don't feel that my tiny allocation is redundant.
 
 If anybody cares to figure out how to change this, I'm all ears. Too late for me, maybe not for a future class?
 </details>
