@@ -41,22 +41,17 @@ You own your intellectual property, and you own the stuff you bought (even after
 
 However, you grant me a license to share the photos of your work, descriptions of your project etc. This is so I can build a case for this sort of "ad-hoc" funding
 
-## Getting reimbursement
-- Send a reciept (via LinkedIn DM)
-- Send me your Venmo or Zelle phone number
+[^1]: Slushy Fund is run by an aulmn, and is not affiliated with George Mason University.
 
-The rules and application might change without notice, to help me tune the types of projects I'm funding.
+<details>
+<summary><h2>Q&A</h2></summary>
 
-## Example expenses:
+## What are some examples of things I can use this for?
 - Printer filament, and other supplies
 - Items used and consumed in the development of your project (microcontrollers, sensors, fasteners, modules etc.)
 
 Please use this money in good-faith towards actually achieving your project. This fund has few rules - let's try to keep it that way!
 
-[^1]: Slushy Fund is run by an aulmn, and is not affiliated with George Mason University.
-
-<details>
-<summary><h2>Q&A</h2></summary>
 
 ## Why am I doing this?
 In the grand scheme of alumni contributions, my $2,000 is a rounding error.
