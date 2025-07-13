@@ -62,7 +62,7 @@ The rules and application might change without notice, to help me tune the types
 - Items used and consumed in the development of your project (microcontrollers, sensors, fasteners, modules etc.)
 
 <details>
-<summary>Q&A</summary>
+<summary><h2>Q&A</h2></summary>
 
 ## Why am I doing this?
 In the grand scheme of alumni contributions, my $2,000 is a rounding error.
