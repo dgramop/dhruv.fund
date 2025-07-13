@@ -1,5 +1,5 @@
-# The Dhruv Fund
-The Dhruv Fund supports STEM prototyping for George Mason University students, with no expectation of repayment.
+# The Slushy Fund
+The Slushy Fund supports STEM prototyping for George Mason University students, with no expectation of repayment.
 
 The application takes less than a minute, and each reimbursement should take less than a minute to file. 
 
@@ -16,9 +16,9 @@ If I have more questions (like how the product this help your project), I'll fol
 Just add me on LinkedIn and DM me your responses. You can also reach out - I'm in the University Scholars discord and the MIX discord.
 
 # Available Funds:
-2,000 for all applicants combined, for the 2025-2026 academic year.
+$2,000 for all applicants combined, for the 2025-2026 academic year.
 
-# FAQ
+# Logistics
 
 ## Rules:
 ### Pics (or it didn't happen)
@@ -61,6 +61,9 @@ The rules and application might change without notice, to help me tune the types
 - Printer filament, and other supplies
 - Items used and consumed in the development of your project (microcontrollers, sensors, fasteners, modules etc.)
 
+<details>
+<summary>Q&A</summary>
+
 ## Why am I doing this?
 In the grand scheme of alumni contributions, my $2,000 is a rounding error.
 
@@ -85,7 +88,7 @@ De-minimis purchases of parts used-and-consumed by a project should not require 
 ## Why the whole reimbursement thing?
 If I give out a block grant, I can't reallocate that money to another project (if, for example, the recipient(s) loses interest in their project and no longer needs parts)
 
-## Who is Dhruv? Is he dead?
+## Whose money is this?
 I get it, most funds are named after dead people that did great things. I am neither dead, nor have I done anything all that great.
 I have no plans to be dead, but some constraints are hard to design around.
 
@@ -124,3 +127,4 @@ If anybody cares to figure out how to change this, I'm all ears. Too late for me
 While I was a resident advisor, I got to watch the de-facto organizer of my floor rally his neighbors to build various applied engineering projects, including a fixed-wing UAS.
 
 The following semester, after I moved to San Francisco for tech work, I had the privilege of seeing those same residents at [Open Sauce](https://opensauce.com/), where they presented their work.
+</details>
