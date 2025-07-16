@@ -16,7 +16,7 @@ Via <a href="https://www.linkedin.com/in/dgramop ">LinkedIn DM to Dhruv</a> expl
   <li>What are you building?</li>
   <li>Why are you building it?</li>
   <li>Send a picture of your progress so far (even if its just a napkin sketch)</li>
-</ul><br/>
+</ul>
 
 Just add me on LinkedIn and DM me your responses. You can also reach out via Discord - I'm in the University Scholars server and the MIX server.<br/><br/>
 
@@ -48,7 +48,7 @@ This money is intended to fund passion projects.<br/><br/>
 <h4>You still own everything</h4>
 You own your intellectual property, and you own the stuff you bought (even after I reimburse it).<br/><br/>
 
-However, you grant me a license to share the photos of your work & undetailed descriptions of your project. This is so I can build a case for this sort of "ad-hoc" funding
+However, you grant me a license to share the photos of your work & undetailed descriptions of your project. This is so I can build a case for this sort of "ad-hoc" funding<br/>
 </details>
 
 [^1]: Slushy Fund is run by an aulmn, and is not affiliated with George Mason University.
@@ -56,29 +56,28 @@ However, you grant me a license to share the photos of your work & undetailed de
 <details>
 <summary><h3>Q&A</h3></summary>
 
-<h4>What are some examples of things I can use this for?</h4><br/>
+<h4>What are some examples of things I can use this for?</h4>
 <ul>
 <li>Printer filament, and other supplies</li>
 <li>Items used and consumed in the development of your project (microcontrollers, sensors, fasteners, modules etc.)</li>
-</ul><br/>
-<br/>
-Please use this money in good-faith towards actually achieving your project. This fund has few rules - let's try to keep it that way! <br/>
+</ul>
+Please use this money in good-faith towards actually achieving your project. This fund has few rules - let's try to keep it that way! <br/><br/>
 
 <h4>Why?</h4>
 In the grand scheme of alumni contributions, my $2,000 is a rounding error.<br/><br/>
 
 There are many good reasons to contribute straight to the university. There is no mechanism I'm aware of that directly disperses funds to students in a way that keeps up with the speed of prototyping.<br/><br/>
 
-It probably won't last all year.<br/><br/>
+This fund probably won't last all year.<br/><br/>
 
 I'm not sure I'm going to do this again next year, let's see how this one goes! <br/><br/>
 
 <h4>What about the Student Funding Board (SFB)? Aren't they unable to actually spend all their money?</h4>
 GMU's existing Student Fund is "underallocated", but still denies most legitimate prototyping-related requests, largely due to tracability & inventory of all purchased items.<br/><br/>
 
-Their contrived process requires RSO's to fill out multi-page rubrics, take mandatory online trainings, review [50-slide presentations](https://si.gmu.edu/wp-content/uploads/2018/03/FM-1-5-presentation-2017-2018_January-2018-Version.pdf), and wait several weeks only to recieve a denial.<br><br/>
+Their contrived process requires RSO's to fill out multi-page rubrics, take mandatory online trainings, review <a href="https://si.gmu.edu/wp-content/uploads/2018/03/FM-1-5-presentation-2017-2018_January-2018-Version.pdf">50-slide presentations</a>, and wait several weeks only to recieve a denial.<br><br/>
 
-Whether by design or by circumstance, the SFB is unable to effectively fund hardware STEM projects that RSOs come together to build.<br/><br/>
+Whether by cynical state regulation or by internal bureaucracy/politics, the SFB is unable to effectively fund hardware STEM projects that RSOs come together to build.<br/><br/>
 
 I want to bring a culture of saying "yes" to non-academic STEM project funding in the MIX.<br/><br/>
 
@@ -90,13 +89,13 @@ De-minimis purchases of parts used-and-consumed by a project should not require 
 If I give out a block grant, I can't reallocate that money to another project (if, for example, the recipient(s) loses interest in their project and no longer needs parts)<br/><br/>
 
 <h4>Whose money is this?</h4>
-I get it, most funds are named after dead people that did great things. I am neither dead, nor have I done anything all that great.<br/>
-I have no plans to be dead, but some constraints are hard to design around.<br/>
+My name is dhruv
 <br/>
-I was in the class of 2024, where I got a major in computer science and jetissoned my second math major to get into industry.<br/>
+I was in the class of 2024, where I got a major in computer science and jetissoned my second math major to get into industry. I was proud<br/>
 <br/>
-I was a teaching assistant (TA) for CS department. After almost unionizing the TA's because our $10/hr stipend was left unpaid nearly for over 3 months, I left this job with some of my friends to start https://passcs.io.<br/>
+I was a teaching assistant (TA) for CS department. After almost unionizing the TA's because our $10/hr stipend was left unpaid nearly for over 3 months, I left this job with some of my friends to start https://passcs.io. I was able to achieve several financial goals through this buisness, until I handed over the company to another tutor<br/>
 <br/>
+This experience created my despise for the back-office bean-counters that do not meaningfully improve the student or faculty experience. Hot take: if the bean-counters can't effectively discharge the University's legal obligations, how can we expect them to effectively administer innovation & academic funding?<br/><br/>
 <!--<details>
 <summary>Aside: How I lost faith in back-office payroll/finance types at GMU</summary>
 I earned my despise for back-office bean-counters after the following conversation with payroll:<br/>
@@ -128,10 +127,12 @@ Even in the case of a hard legal obligation to pay employees, our bean-counters 
 
 If anybody cares to figure out how to change this, I'm all ears. Too late for me, maybe not for a future class?
 </details>
--->
 <br/><br/>
-While I was a resident advisor, I got to watch the de-facto organizer of my floor rally his neighbors to build various applied engineering projects, including a fixed-wing UAS.
+-->
+While I was a resident advisor, I got to watch the de-facto organizer of my floor rally his neighbors to build various applied engineering projects, including a fixed-wing UAS.<br/><br/>
 
-The following semester, after I moved to San Francisco for tech work, I had the privilege of seeing those same residents at [Open Sauce](https://opensauce.com/), where they presented their work.
+The following semester, after I moved to San Francisco for tech work, I had the privilege of seeing those same residents at <a href="https://opensauce.com/">Open Sauce</a>, where they presented their work.<br/><br/>
+
+I have several other stories of projects those students built in the dorms, in spite of hurdles created by University Life regulation and a finite budget. These are the kinds of projects I want to enable, and that bring glory to our alma-mater in the eyes of modern industry. 
 </details>
 
