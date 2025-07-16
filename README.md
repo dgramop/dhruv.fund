@@ -72,7 +72,7 @@ This fund probably won't last all year.<br/><br/>
 
 I'm not sure I'm going to do this again next year, let's see how this one goes! <br/><br/>
 
-<h4>What about the Student Funding Board (SFB)? Aren't they unable to actually spend all their money?</h4>
+<h4>What about the Student Funding Board (SFB)? Aren't they unable to spend all their money?</h4>
 GMU's existing Student Fund is "underallocated", but still denies most legitimate prototyping-related requests, largely due to tracability & inventory of all purchased items.<br/><br/>
 
 Their contrived process requires RSO's to fill out multi-page rubrics, take mandatory online trainings, review <a href="https://si.gmu.edu/wp-content/uploads/2018/03/FM-1-5-presentation-2017-2018_January-2018-Version.pdf">50-slide presentations</a>, and wait several weeks only to recieve a denial.<br><br/>
