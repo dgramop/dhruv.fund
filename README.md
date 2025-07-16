@@ -89,7 +89,7 @@ De-minimis purchases of parts used-and-consumed by a project should not require 
 If I give out a block grant, I can't reallocate that money to another project (if, for example, the recipient(s) loses interest in their project and no longer needs parts)<br/><br/>
 
 <h4>Whose money is this?</h4>
-My name is dhruv
+My name is <a href="https://dgramop.xyz">Dhruv</a>
 <br/>
 I was in the class of 2024, where I got a major in computer science and jetissoned my second math major to get into industry. I was proud<br/>
 <br/>
