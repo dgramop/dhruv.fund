@@ -11,42 +11,44 @@ The fund is intended to operate at the speed of prototyping, not paperwork.
 <details>
 <summary><h3>Application (once)</h3></summary>
 
-Via <a href="https://www.linkedin.com/in/dgramop ">LinkedIn DM to Dhruv</a> explain
-- What are you building?
-- Why are you building it?
-- Send a picture of your progress so far (even if its just a napkin sketch)
+Via <a href="https://www.linkedin.com/in/dgramop ">LinkedIn DM to Dhruv</a> explain:<br/>
+<ul>
+  <li>What are you building?</li>
+  <li>Why are you building it?</li>
+  <li>Send a picture of your progress so far (even if its just a napkin sketch)</li>
+</ul><br/>
 
-Just add me on LinkedIn and DM me your responses. You can also reach out via Discord - I'm in the University Scholars server and the MIX server.
+Just add me on LinkedIn and DM me your responses. You can also reach out via Discord - I'm in the University Scholars server and the MIX server.<br/><br/>
 
-If I have more questions, I'll follow up. It shouldn't take more than 30 seconds to apply.
+If I have more questions, I'll follow up. It shouldn't take more than 30 seconds to apply.<br/><br/>
 
 I'm setting aside a total of $2,000 for all applicants combined, for the 2025-2026 academic year. Not much, but we'll see how far we can stretch it!
 </details>
 
 <details>
 <summary><h3>Send Reciepts (for every reimbursement)</h3></summary>
-Every purchase must be backed by a reciept you send me over LinkedIn, which I will then reimburse.
+Every purchase must be backed by a reciept you send me over LinkedIn, which I will then reimburse.<br/><br/>
 
-You can apply for particular purchase in advance. This way we can set aside the money + let you know that you expense is good.
+You can apply for particular purchase in advance. This way we can set aside the money + let you know that you expense is good.<br/><br/>
 
-You can also do cowboy reimbursements (where you buy the thing and then submit the reciept instead of asking in advance), but there's a risk I'll say no, run out of money, or change the rules.
+You can also do cowboy reimbursements (where you buy the thing and then submit the reciept instead of asking in advance), but there's a risk I'll say no, run out of money to allocate, or improve the rules.<br/><br/>
 
-Usual disclaimer that I reserve the right to say to no for any reason or no reason at all. Or to cut you off if you're burning cash too fast without sharing your progress (even if its back-to-back failures)!
+Usual disclaimer that I reserve the right to say to no for any reason or no reason at all.
 </details>
 
 <details>
 <summary><h3>Rules</h3></summary>
 
-### No academic projects (classwork or funded research)
-Things you're "required" to build (for class, for work, or for your thesis) can be cool, but that's not what this fund is for.
-There are tons of grants and funds already in place for this.
+<h4>No academic projects (classwork or funded research)</h4>
+Things you're "required" to build (for class, for work, or for your thesis) can be cool, but that's not what this fund is for.<br/>
+There are tons of grants and funds already in place for this.<br/><br/>
 
-This money is intended to fund passion projects.
+This money is intended to fund passion projects.<br/><br/>
 
-### You still own everything
-You own your intellectual property, and you own the stuff you bought (even after I reimburse it).
+<h4>You still own everything</h4>
+You own your intellectual property, and you own the stuff you bought (even after I reimburse it).<br/><br/>
 
-However, you grant me a license to share the photos of your work, descriptions of your project etc. This is so I can build a case for this sort of "ad-hoc" funding
+However, you grant me a license to share the photos of your work & undetailed descriptions of your project. This is so I can build a case for this sort of "ad-hoc" funding
 </details>
 
 [^1]: Slushy Fund is run by an aulmn, and is not affiliated with George Mason University.
@@ -95,7 +97,7 @@ I was in the class of 2024, where I got a major in computer science and jetisson
 <br/>
 I was a teaching assistant (TA) for CS department. After almost unionizing the TA's because our $10/hr stipend was left unpaid nearly for over 3 months, I left this job with some of my friends to start https://passcs.io.<br/>
 <br/>
-<details>
+<!--<details>
 <summary>Aside: How I lost faith in back-office payroll/finance types at GMU</summary>
 I earned my despise for back-office bean-counters after the following conversation with payroll:<br/>
 <br/>
@@ -126,7 +128,8 @@ Even in the case of a hard legal obligation to pay employees, our bean-counters 
 
 If anybody cares to figure out how to change this, I'm all ears. Too late for me, maybe not for a future class?
 </details>
-
+-->
+<br/><br/>
 While I was a resident advisor, I got to watch the de-facto organizer of my floor rally his neighbors to build various applied engineering projects, including a fixed-wing UAS.
 
 The following semester, after I moved to San Francisco for tech work, I had the privilege of seeing those same residents at [Open Sauce](https://opensauce.com/), where they presented their work.
